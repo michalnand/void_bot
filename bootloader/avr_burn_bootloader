@@ -1,0 +1,6 @@
+
+#burn fuses
+sudo avrdude -c USBasp -p m328 -U lfuse:w:0xf7:m -U hfuse:w:0xda:m  #-U efuse:w:0x03:m
+
+#burn bootloader
+sudo avrdude -c USBasp -p m328 -U flash:w:mega328p_12mhz.hex:i
