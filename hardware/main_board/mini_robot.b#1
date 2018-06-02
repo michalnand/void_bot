@@ -154,10 +154,6 @@
 <text x="33.3248" y="3.048" size="1.016" layer="26" rot="MR180">RXD</text>
 <rectangle x1="0" y1="19.7104" x2="2.4384" y2="29.8704" layer="46"/>
 <rectangle x1="45.3136" y1="19.7104" x2="47.752" y2="29.8704" layer="46"/>
-<rectangle x1="0" y1="19.5072" x2="2.032" y2="30.0736" layer="39"/>
-<rectangle x1="45.72" y1="19.5072" x2="47.752" y2="30.0736" layer="39"/>
-<rectangle x1="0" y1="19.5072" x2="2.032" y2="30.0736" layer="40"/>
-<rectangle x1="45.72" y1="19.5072" x2="47.752" y2="30.0736" layer="40"/>
 </plain>
 <libraries>
 <library name="my_parts">
